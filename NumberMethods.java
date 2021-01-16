@@ -144,8 +144,7 @@ package Loops;
 			printPrimes(30);
 			printStrong(30);
 			printWeak(30);
-//			
-// ask if he wants divisors printed !
+
 			//
 		}
 
